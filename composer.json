@@ -3,5 +3,5 @@
     "type": "library",
     "description": "Modified Smarty for Rudrax",
     "keywords": ["rudra", "API", "controller","smarty"],
-    "license": "MIT",
+    "license": "MIT"
 }
