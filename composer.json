@@ -1,5 +1,5 @@
 {
-    "name": "rudra/smarty",
+    "name": "rudrax/smarty",
     "type": "library",
     "description": "Modified Smarty for Rudrax",
     "keywords": ["rudra", "API", "controller","smarty"],
