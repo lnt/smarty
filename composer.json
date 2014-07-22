@@ -4,5 +4,9 @@
     "description": "Modified Smarty for Rudrax",
     "keywords": ["rudra", "API", "controller","smarty"],
     "license": "MIT",
-    "version" : "3.1"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.1"
+        }
+    }
 }
