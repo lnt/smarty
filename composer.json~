@@ -1,0 +1,24 @@
+{
+    "name": "lnt/smarty",
+    "type": "library",
+    "description": "Modified Smarty for Rudrax",
+    "keywords": ["rudra", "API", "controller","smarty"],
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "sfGuardPlugin",
+                "version": "4.0.2",
+                "dist": {
+                    "url": "http://plugins.symfony-project.org/get/sfGuardPlugin/sfGuardPlugin-4.0.2.tgz",
+                    "type": "tar"
+                }
+            }
+        }
+    ],
+    "require": {
+        "sfGuardPlugin": "4.0.*"
+    }
+}
+
